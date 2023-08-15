@@ -1,0 +1,15 @@
+.CMS,
+.CM {
+    font-size: 28px;
+    font-family: 'Times New Roman', Halventica, sans-serif
+}
+
+.CM {
+    color: white;
+    background-color: black;
+}
+
+.CMS {
+    color: black;
+    background-color: yellow;
+}
